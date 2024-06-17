@@ -1,0 +1,1 @@
+C++ program that implements a data structure called MultiSet that efficiently manages and performs operations on a multiset of unsigned integers using bitwise storage techniques. It allows adding numbers, counting occurrences of specific numbers, performing set operations (section, difference, complement), and serializing/deserializing data.
